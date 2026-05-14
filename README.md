@@ -43,9 +43,6 @@ Email Me 👉 ✉️ **[shivamkumar71101@gmail.com](mailto:your-email@example.co
 ![](https://github-contributor-stats.vercel.app/api?username=TerminalMind&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=TerminalMind&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
